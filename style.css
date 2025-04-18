@@ -156,4 +156,10 @@ header input {
   .piano-keys .white {
     width: 50px;
   }
+}     
+.key.hint {
+  box-shadow: 0 0 20px 5px yellow;
+  background-color: lightyellow;
 }
+
+
